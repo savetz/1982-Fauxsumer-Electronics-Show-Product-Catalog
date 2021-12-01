@@ -1,0 +1,150 @@
+very old
+NEW
+Obsolete
+in demand
+coming soon
+backordered
+Version {smallint}
+Ver. {smallint}.1
+order now
+now less flammable
+patent pending
+up to {smallint} baud
+incompatible
+HOT
+lasts forever
+fireproof
+as seen on TV
+used by KGB
+now legal
+networkable
+copyrighted
+news
+works with software
+computerized
+IBMish
+made by a company
+systems
+announced
+for users
+telecom
+data
+business
+technology
+thing
+products
+good
+for people
+programmable
+general
+fax
+thought
+market
+sales
+communications
+access
+unix
+service
+electronic
+get online
+now with features
+Only \${medint}{medint}
+Now \${medint}{smallint}
+nice
+international
+personal
+applications
+multimedia
+color
+services
+remember
+lotus
+god
+Japanese
+graphics
+for marketing
+No support
+cellular
+on the desktop
+expected
+trendy
+personal computer
+no hard disk
+operating system
+Hong Kong
+retail price
+joint venture
+personal computers
+suggested retail
+computer systems
+digital equipment
+local area
+long distance
+increase income
+electronic mail
+word processing
+second quarter
+Analog
+Digital
+binary
+uses electricity
+uses {medint} bytes
+{smallint} kilobytes
+{smallint} bits per second
+Input device
+non-commercial
+open source
+futureproof
+privacy
+proprietary
+shareware
+super computer
+synergy
+Trojan horse
+update
+virus
+Dial-up
+Dot matrix
+Vacuum tubes
+Y2K Compliant
+Rebootable
+for Netizens
+{medint} DPI
+blinkenlights
+use with Atari
+turnkey system
+extra processing
+now with transistors
+bipolar junction
+Field Effect
+analog
+poorly designed
+non-expandable
+low cost
+Surge Protection
+Tempting
+Astonishing
+Explosive
+Polarizing
+Untested
+Hazardous
+Authentic
+No-Strings Attached
+Secure
+Tested
+No Obligation
+Certified
+Exclusive
+Hurry
+Limited Edition
+Bargain
+Better
+Professional
+Best Selling
+Guaranteed
+Easy
+Advanced
+Results
+Effective
+Massive
+Impactful
